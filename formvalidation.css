@@ -1,0 +1,82 @@
+#al
+{
+  color:red;
+  visibility:hidden;
+}
+#ap
+{
+  color:green;
+  font-style:italic;
+  visibility: hidden;
+}
+#div1
+{  padding:2%;
+  width:30%;
+border:1px solid skyblue;
+float:right;
+}
+#div2
+{
+  padding:2%;
+  width:30%;
+  border:1px solid skyblue;
+  float:right;
+}
+.div1
+{
+  background-color:darkred;
+}
+#ltitle
+{
+  color:white;
+}
+#ldescription
+{
+  color:white;
+}
+#title{
+  width:99%;
+background-color:darkred;
+color:white;
+}
+#description
+{
+  width:80%;
+  background-color:darkred;
+  color:white;
+}
+#para{
+  color:white;
+}
+legend{
+  background-color:lightskyblue;
+  width:75%;
+  margin:auto;
+  text-align:center;
+}
+form{
+  width:40%;
+  margin:auto;
+}
+#div3
+{
+  padding:2%;
+  width:30%;
+  float:right;
+  border:1px solid skyblue;
+}
+#div4
+{
+  background-color:lightskyblue;
+  text-align:center;
+}
+#submit
+{
+  background-color:darkred;
+  color:white;
+}
+#reset
+{
+  background-color:darkred;
+  color:white;
+}
